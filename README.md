@@ -12,7 +12,7 @@ I have worked with the following languages, frameworks, and technologies:
 
 **Programming & Frameworks:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,c,python,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,c,python,java,asm" />
 </p>
 
 **Currently Learning:**
