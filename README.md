@@ -2,9 +2,6 @@
 
 ###  1st Year Computer Science Student at IUT Strasbourg (BUT Informatique)
 
-> "I love to learn." — Driven by curiosity and a constant desire to expand my technical horizons.
-
----
 
 ### Technical Experience
 
